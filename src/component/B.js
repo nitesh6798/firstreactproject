@@ -15,7 +15,7 @@ export default function B() {
     },
     {
       id: 3,
-      text: "ccc",
+      text: "cccc",
       complete: true,
     },
   ];

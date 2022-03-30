@@ -1,0 +1,59 @@
+.a{
+    display: flex;
+    justify-content: center;
+}
+.b{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.c{
+    height: 400px !important;
+    margin-bottom: 10px !important;
+    display: block;
+    margin: 10px auto;
+}
+.d{
+    display: flex;
+    gap: 5px;
+}
+.e{
+    
+    margin: 10px auto;
+   }
+   .f{
+       display: flex;
+       justify-content: center;
+
+   }
+   .g{
+       padding: 10px;
+       box-shadow: inset 0 0 10px 10px white, inset 0 0 3px 2px white;
+
+       background-color: black !important;
+   }
+   .h{
+       background-color: white;
+       margin-bottom: 5px !important;
+       width: 200px;
+       font-size: 15px;
+       border: 2px white;
+       border-radius: 10px;
+       outline: none;
+       padding: 10px;
+   }
+   .cs{
+       display: block;
+       margin: 10px auto;
+       height: 100px;
+       width: 100px;
+       padding: 10px;
+       border: 10px solid red;
+       box-sizing: border-box;
+       
+       background-color: black;
+       color: #fff;
+   }
+   
+
+  
